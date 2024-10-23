@@ -7,4 +7,4 @@ jobs:
       - name: Chekout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: ichbinbobby/podcast-generator-test@main
+        uses: ichbinbobby/github-actions-test@main
